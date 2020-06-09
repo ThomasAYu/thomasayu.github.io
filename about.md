@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I live in Auckland, New Zealand and am currently working on personal projects using C# to build up a portfolio. My goal being to find full time employment in the near future.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Outside of progamming I enjoy playing games on my Nintendo Switch, hitting the gym and watching TV shows.
 
 ### Contact me
 
