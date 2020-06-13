@@ -3,7 +3,9 @@ layout: post
 title: Cleaning up a little 
 ---
 
-After going through many of the basic C# courses on Pluralsight, my first personal project was to create a basic 'warm up sets' calculator. This calculator outputs reps and weights to use as warm ups before my first 'real' set (working set) of an exercise. For example, maybe I want to warm up by doing 5 reps at 50% of the weight of my first working set. If I wanted to squat 3 reps at 100kgs I would input 3 @ 100 and receive 5 @ 50 as my output. If I wanted to do multiple different warm up sets or use explicit weights instead of 'percentage of working weight' I would also be able to do that. 
+After going through many of the basic C# courses on Pluralsight, my first personal project was to create a basic 'warm up sets' calculator. This calculator outputs reps and weights to use as warm ups before my first 'real' set (working set) of an exercise. 
+
+For example, maybe I want to warm up by doing 5 reps at 50% of the weight of my first working set. If I wanted to squat 3 reps at 100kgs I would input 3 @ 100 and receive 5 @ 50 as my output. If I wanted to do multiple different warm up sets or use explicit weights instead of 'percentage of working weight' I would also be able to do that. 
 
 When the lockdown happened I ended up putting this project aside - with most of the functionality already coded. Now, picking it up again, and before adding the final features that I would like (saving warm up set lists, and having multiple lists saved) I am going to refactor it. Having recently gone through some short courses on clean coding and defensive coding (again, on Pluralsight) I've decided that being able to cement some of those ideas in my mind by refactoring now is a good idea.
 
